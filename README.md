@@ -75,4 +75,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 *Technology with purpose. Knowledge with responsibility.*
 
+***© 2026 Islamic Companion · Made by the developer of Halal Nasheeds Official***
 </div>
